@@ -3,11 +3,9 @@ import React from "react";
 function Mapss() {
   return (
     <div>
-      <h1>
-        {" "}
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus
-        molestiae qui cum nobis ea ab!
-      </h1>
+      <marquee behavior="" direction="">
+        <h1 style={{ color: "red" }}>Hello guys</h1>
+      </marquee>
     </div>
   );
 }
