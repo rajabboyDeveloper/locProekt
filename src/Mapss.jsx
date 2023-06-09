@@ -4,7 +4,7 @@ function Mapss() {
   return (
     <div>
       <marquee behavior="" direction="">
-        <h1 style={{ color: "red" }}>Hello guys</h1>
+        <h1 style={{ color: "red" }}>Hello boys</h1>
       </marquee>
     </div>
   );
